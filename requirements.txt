@@ -40,7 +40,6 @@ importlib-metadata==5.1.0
 importlib-resources==5.10.0
 Jinja2==3.1.2
 jsonschema==3.2.0
-kas @ file:///home/mp/wcc_demo/git_antsdr_uhd/kas
 kazam==1.4.5
 kconfiglib==14.1.0
 keyring==18.0.1
